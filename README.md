@@ -1,3 +1,10 @@
+<!-- 
+	FIZ UM VÍDEO NO MEU CANAL (), 
+ 	MOSTRANDO PASSO-A-PASSO DE COMO
+  	UTILIZAR ESSA DESCRIÇÃO
+ 
+-->
+
 <!-- MODELO PROJETO EM ANDAMENTO -->
 <h1 align="center"> 
 	🚧 {Nome do repositório} - Em contrução 🚧
