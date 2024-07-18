@@ -26,13 +26,17 @@
 
 <!-- ---------------------------------------------------------------------- -->
 
+<!-- MODELO DE DESCRIÇÃO -->
 ## 📄 Descrição do entregável
 
+<!-- EXEMPLO DE DESCRIÇÃO DE UM PROJETO: -->
 - Widget (Pasta que armazena apenas o widget)
 
 - ExternalPage (Widget em uma página externa)
 
 ---
+
+<!-- ---------------------------------------------------------------------- -->
 
 ## 💻 Sobre o projeto
 
@@ -42,11 +46,16 @@ O desafio proposto para este projeto era a criação de um widget. Neste widget,
 
 ---
 
+<!-- ---------------------------------------------------------------------- -->
+
 ## ⚙️ Funcionalidades
 
 - [x] Se o usuário não enviar mensagens dentro de 1 minuto o chat deve responder uma mensagem automaticamente.
 - [x] Se o usuário ficar inativo por 3 minutos o chat se encerra
 ---
+
+<!-- ---------------------------------------------------------------------- -->
+
 ## 🎨 Layout
 
 ### Widget
@@ -62,11 +71,15 @@ O desafio proposto para este projeto era a criação de um widget. Neste widget,
 
 ---
 
+<!-- ---------------------------------------------------------------------- -->
+
 ## 🚀 Como executar o projeto
 
 1 - Baixar o Projeto <br>
 2 - Instalar a pasta node_modules (npm install)<br>
 3 - Rodar o projeto (npm start)
+
+<!-- ---------------------------------------------------------------------- -->
 
 ### Pré-requisitos
 
@@ -75,6 +88,8 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
 ---
+
+<!-- ---------------------------------------------------------------------- -->
 
 ## 🛠 Tecnologias
 
@@ -91,6 +106,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ---
 
+<!-- ---------------------------------------------------------------------- -->
+
 ## 💪 Como contribuir para o projeto
 
 1. Faça um **fork** do projeto.
@@ -101,6 +118,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ---
 
+<!-- ---------------------------------------------------------------------- -->
+
 ## 🦸 Autor
 
 <a href="https://br.linkedin.com/in/matheus-maia-alvarez-">
@@ -110,6 +129,8 @@ Matheus Maia Alvarez</a>
 [![Gmail Badge](https://img.shields.io/badge/-mthalvarez2005@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mthalvarez2005@gmail.com)](mailto:mthalvarez2005@gmail.com)
 
 ---
+
+<!-- ---------------------------------------------------------------------- -->
 
 ## 📝 Licença
 
