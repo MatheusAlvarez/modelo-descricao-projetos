@@ -1,13 +1,13 @@
 <!-- MODELO PROJETO EM ANDAMENTO -->
 <h1 align="center"> 
-	🚧 ChatBot-Digitalk - Em contrução 🚧
+	🚧 {Nome do repositório} - Em contrução 🚧
 </h1>
 
 <!-- ---------------------------------------------------------------------- -->
 
 <!-- MODELO PROJETO FINALIZADO -->
 <h1 align="center"> 
-	  🚀✅ ChatBot-Digitalk - Concluído ✅🚀
+	  🚀✅ {Nome do repositório} - Concluído ✅🚀
 </h1>
 
 <!-- ---------------------------------------------------------------------- -->
@@ -38,27 +38,36 @@
 
 <!-- ---------------------------------------------------------------------- -->
 
+<!-- MODELO DESCRIÇÃO SOBRE O PROJETO: -->
 ## 💻 Sobre o projeto
 
-ChatBot-Digitalk é um projeto criado para o processo seletivo da Digitalk.
+<!-- EXPLICA O MOTIVO DO PROJETO -->
+{Nome do repositório} é um projeto criado para o processo seletivo da {Nome da Empresa}.
 
-O desafio proposto para este projeto era a criação de um widget. Neste widget, teríamos uma tela de boas-vindas e um chat-bot.
+O desafio proposto para este projeto era a criação {EXPLICAR}. Neste projeto, teríamos {EXPLICAR}
 
+<!-- LINHA DE DIVISÃO: -->
 ---
 
 <!-- ---------------------------------------------------------------------- -->
 
+<!-- MODELO FUNCIONALIDADES: -->
 ## ⚙️ Funcionalidades
 
+<!-- EXEMPLO DE FUNCIONALIDADES: -->
 - [x] Se o usuário não enviar mensagens dentro de 1 minuto o chat deve responder uma mensagem automaticamente.
 - [x] Se o usuário ficar inativo por 3 minutos o chat se encerra
+
 ---
 
 <!-- ---------------------------------------------------------------------- -->
 
+<!-- EXEMPLO DE LAYOUT: -->
 ## 🎨 Layout
 
 ### Widget
+
+<!-- AQUI VOCÊ PASSA O CAMINHO DA IMAGEM -->
 ![Mobile1](https://github.com/MatheusAlvarez/ChatBot-Digitalk/blob/master/assets/mobile01.png)<br>
 ![Mobile2](https://github.com/MatheusAlvarez/ChatBot-Digitalk/blob/master/assets/mobile02.png)<br>
 ![Mobile3](https://github.com/MatheusAlvarez/ChatBot-Digitalk/blob/master/assets/mobile03.png)
@@ -73,6 +82,7 @@ O desafio proposto para este projeto era a criação de um widget. Neste widget,
 
 <!-- ---------------------------------------------------------------------- -->
 
+<!-- MODELO DE COMO EXECUTAR O PROJETO -->
 ## 🚀 Como executar o projeto
 
 1 - Baixar o Projeto <br>
@@ -81,6 +91,7 @@ O desafio proposto para este projeto era a criação de um widget. Neste widget,
 
 <!-- ---------------------------------------------------------------------- -->
 
+<!-- MODELO DE PRÉ REQUISITOS -->
 ### Pré-requisitos
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
@@ -91,6 +102,7 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 
 <!-- ---------------------------------------------------------------------- -->
 
+<!-- MODELO DE TECNOLOGIAS -->
 ## 🛠 Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
@@ -108,6 +120,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 <!-- ---------------------------------------------------------------------- -->
 
+<!-- MODELO DE COMO CONTRIBUIR PARA O PROJETO -->
 ## 💪 Como contribuir para o projeto
 
 1. Faça um **fork** do projeto.
@@ -120,6 +133,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 <!-- ---------------------------------------------------------------------- -->
 
+<!-- MODELO DE AUTOR-->
 ## 🦸 Autor
 
 <a href="https://br.linkedin.com/in/matheus-maia-alvarez-">
@@ -132,6 +146,7 @@ Matheus Maia Alvarez</a>
 
 <!-- ---------------------------------------------------------------------- -->
 
+<!-- MODELO DE LICENÇA -->
 ## 📝 Licença
 
 Este projeto esta sobe a licença [MIT](./LICENSE).
